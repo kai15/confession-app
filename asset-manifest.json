@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/confession-app/static/css/main.073c9b0a.css",
-    "main.js": "/confession-app/static/js/main.50220ca1.js",
+    "main.css": "/confession-app/static/css/main.6904368e.css",
+    "main.js": "/confession-app/static/js/main.7838e16c.js",
     "static/js/787.c6508c64.chunk.js": "/confession-app/static/js/787.c6508c64.chunk.js",
-    "static/media/logo.svg": "/confession-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/g.gif": "/confession-app/static/media/g.1964196fe037e39be14e.gif",
     "index.html": "/confession-app/index.html",
-    "main.073c9b0a.css.map": "/confession-app/static/css/main.073c9b0a.css.map",
-    "main.50220ca1.js.map": "/confession-app/static/js/main.50220ca1.js.map",
+    "main.6904368e.css.map": "/confession-app/static/css/main.6904368e.css.map",
+    "main.7838e16c.js.map": "/confession-app/static/js/main.7838e16c.js.map",
     "787.c6508c64.chunk.js.map": "/confession-app/static/js/787.c6508c64.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.50220ca1.js"
+    "static/css/main.6904368e.css",
+    "static/js/main.7838e16c.js"
   ]
 }

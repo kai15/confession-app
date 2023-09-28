@@ -14,7 +14,7 @@ function App() {
   const [data, setData] = useState({title: "", desc: ""})
 
   // const [play] = useSound(bgMusic, {volume: 0.5});
-  const [playAmin] = useSound(bgMusicAmin, {volume: 0.5});
+  const [playAmin] = useSound(bgMusicAmin, {volume: 0.8});
 
   const handleOpening = () => {
     playAmin();

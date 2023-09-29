@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/confession-app/static/css/main.e9bf45c4.css",
-    "main.js": "/confession-app/static/js/main.02df487d.js",
+    "main.js": "/confession-app/static/js/main.f58c7e20.js",
     "static/js/845.ee44d8f3.chunk.js": "/confession-app/static/js/845.ee44d8f3.chunk.js",
     "static/js/787.c6508c64.chunk.js": "/confession-app/static/js/787.c6508c64.chunk.js",
     "static/media/bg-music-amin.mp3": "/confession-app/static/media/bg-music-amin.583571ac979d68e9c32f.mp3",
     "static/media/g.gif": "/confession-app/static/media/g.1964196fe037e39be14e.gif",
     "index.html": "/confession-app/index.html",
     "main.e9bf45c4.css.map": "/confession-app/static/css/main.e9bf45c4.css.map",
-    "main.02df487d.js.map": "/confession-app/static/js/main.02df487d.js.map",
+    "main.f58c7e20.js.map": "/confession-app/static/js/main.f58c7e20.js.map",
     "845.ee44d8f3.chunk.js.map": "/confession-app/static/js/845.ee44d8f3.chunk.js.map",
     "787.c6508c64.chunk.js.map": "/confession-app/static/js/787.c6508c64.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e9bf45c4.css",
-    "static/js/main.02df487d.js"
+    "static/js/main.f58c7e20.js"
   ]
 }

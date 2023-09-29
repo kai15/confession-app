@@ -91,7 +91,7 @@ function App() {
             <p style={{marginTop: 25, textAlign: "left", }}>
               {/*{data?.desc}*/}
               Halo sayang, r u ready? <br />
-              Agaknya membaca tulisanku akan menjadi salah satu rutinitas baru mu, ya jika kamu mau tentu. hehe <br/>
+              Agaknya membaca tulisanku akan menjadi salah satu rutinitas baru mu, ya jika kamu mau. hehe <br/>
             </p>
 
             <p style={{marginTop: 15, textAlign: "left", }}>
@@ -105,14 +105,14 @@ function App() {
               {/*{data?.desc}*/}
               tapi kamu akhirnya memilih untuk berani, <br/>
               berani menghadapi dengan ketetapan hati, <br/>
-              apapun jadinya rasamu setelah itu, <br/>
+              entah apapun jadinya rasamu setelah itu, <br/>
             </p>
 
             <p style={{marginTop: 15, textAlign: "left", }}>
               {/*{data?.desc}*/}
               aku tetap di sini, <br/>
-              menunggumu, <br/>
-              bersamamu, <br/>
+              masih menunggumu, <br/>
+              selalu bersamamu, <br/>
             </p>
 
             <p style={{marginTop: 15, textAlign: "left", }}>
@@ -131,8 +131,15 @@ function App() {
 
             <p style={{marginTop: 15, textAlign: "left", }}>
               {/*{data?.desc}*/}
-              genggam erat jangan lepas, <br/>
-              ayo terus bersama, <br/>
+              tak perlu lagi risau menatap ke belakang, <br/>
+              tak perlu lagi takut melangkah ke depan, <br/>
+              tak perlu lagi ragu menoleh ke sisi, <br/>
+            </p>
+
+            <p style={{marginTop: 15, textAlign: "left", }}>
+              {/*{data?.desc}*/}
+              cukup genggam erat jangan lepaskan, <br/>
+              ayo terus bertumbuh bersama, <br/>
               selama waktu masih ada, <br/>
             </p>
 
